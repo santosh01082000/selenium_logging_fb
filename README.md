@@ -12,6 +12,7 @@ Note : make sure the chromedriver is in the script file of python folder
 script/tool read config.py configure details. 
 
 installtion:
- pip install -r requiremnt.xtx
+ pip install -r requiremnt.txt
+ 
 Run:
  python fb_login.py
